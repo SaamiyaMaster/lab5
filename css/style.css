@@ -16,7 +16,7 @@ td,th {
   padding: 12px;
   }
 body {
-  background-image: url("images/nebula.jpg");
+  background-image: url(../images/nebula.jpg);
   }
 img{
   width: 275px;
