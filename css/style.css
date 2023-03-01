@@ -10,13 +10,18 @@ h1{
   text-align: center;
   padding: 10px;
   }
-td,th {
+td {
   border:3px solid;
   background-color: #364d4c;
   padding: 12px;
   }
-body {
-  background-image: url(../images/nebula.jpg);
+tr {
+	background-color: #98d4ed;
+	font: 15 px;
+	text-align: center;
+  }
+page {
+  background-image: url("nebula.jpg");
   }
 img{
   width: 275px;
