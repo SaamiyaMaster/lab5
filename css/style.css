@@ -1,6 +1,12 @@
-h1, td, th{
+td, th{
   text-align: center;
   font-family: 'Times New Roman', bold;
+  }
+h1{
+  color: #039dab;
+  font-family: 'Times New Roman', bold;
+  font: 50px;
+  padding: 10px;
   }
 td,th {
   border:3px solid;
