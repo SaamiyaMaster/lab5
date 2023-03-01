@@ -15,7 +15,9 @@ td,th {
   background-color: #364d4c;
   padding: 12px;
   }
-
+body {
+  background-image: url("images/nebula.jpg");
+  }
 img{
   width: 275px;
   height: 275px;
