@@ -20,8 +20,8 @@ tr {
 	background-color: #98d4ed;
 	text-align: center;
   }
-page {
-  background-image: url("nebula.jpg");
+body {
+  background-image: url(../images/nebula.jpg);
   }
 img{
   width: 275px;
