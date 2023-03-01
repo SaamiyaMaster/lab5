@@ -2,7 +2,12 @@ h1, td, th{
   text-align: center;
   font-family: 'Times New Roman', bold;
   }
- 
+td,th {
+  border:3px solid;
+  background-color: #364d4c;
+  padding: 12px;
+  }
+
 img{
   width: 250px;
   height: 225px;
