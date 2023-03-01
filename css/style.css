@@ -3,9 +3,10 @@ td, th{
   font-family: 'Times New Roman', bold;
   }
 h1{
-  color: #039dab;
+  background-color: #039dab;
   font-family: 'Times New Roman', bold;
   font: 50px;
+  text-align: center;
   padding: 10px;
   }
 td,th {
